@@ -1,0 +1,55 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset folders
+dataset/
+datasets/
+data/
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Image frames
+frames/
+
+# Model weights
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# Results / outputs
+results/
+outputs/
+logs/
+
+# Kaggle / temporary files
+*.zip
+*.tar
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Large folders in your project
+D3/GenVideo/video/
+D3/GenVideo/frames/
